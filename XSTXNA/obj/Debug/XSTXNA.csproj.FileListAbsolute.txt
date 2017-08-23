@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2017\Projects\XSTXNA\XSTXNA\bin\Debug\XSTXNA.exe.config
+c:\users\user\documents\visual studio 2017\Projects\XSTXNA\XSTXNA\bin\Debug\XSTXNA.exe
+c:\users\user\documents\visual studio 2017\Projects\XSTXNA\XSTXNA\bin\Debug\XSTXNA.pdb
+c:\users\user\documents\visual studio 2017\Projects\XSTXNA\XSTXNA\obj\Debug\XSTXNA.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\XSTXNA\XSTXNA\obj\Debug\XSTXNA.Form1.resources
+c:\users\user\documents\visual studio 2017\Projects\XSTXNA\XSTXNA\obj\Debug\XSTXNA.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\XSTXNA\XSTXNA\obj\Debug\XSTXNA.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\XSTXNA\XSTXNA\obj\Debug\XSTXNA.exe
+c:\users\user\documents\visual studio 2017\Projects\XSTXNA\XSTXNA\obj\Debug\XSTXNA.pdb
+c:\users\user\documents\visual studio 2017\Projects\XSTXNA\XSTXNA\obj\Debug\XSTXNA.Form2.resources
